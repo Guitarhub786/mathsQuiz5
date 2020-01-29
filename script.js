@@ -16,6 +16,8 @@ var quiz = [
     { sum1: 6, sum2: 7 },
     { sum1: 6, sum2: 8 },
     { sum1: 6, sum2: 9 },
+    { sum1: 6, sum2: 11 },
+    { sum1: 6, sum2: 12 },
     
     { sum1: 7, sum2: 2 },
     { sum1: 7, sum2: 3 },
