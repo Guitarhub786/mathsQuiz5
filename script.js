@@ -10,6 +10,8 @@ var quiz = [
     { sum1: 4, sum2: 7 },
     { sum1: 4, sum2: 8 },
     { sum1: 4, sum2: 9 },
+    { sum1: 4, sum2: 8 },
+    { sum1: 4, sum2: 12 },
 
     { sum1: 5, sum2: 4 },
     { sum1: 6, sum2: 4 },
