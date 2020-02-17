@@ -34,6 +34,12 @@ var quiz = [
     { sum1: 7, sum2: 12 },
     
     { sum1: 8, sum2: 2 },
+    { sum1: 8, sum2: 3 },
+    { sum1: 8, sum2: 4 },
+    { sum1: 8, sum2: 5 },
+    { sum1: 8, sum2: 6 },
+
+    
     
 ];
 
